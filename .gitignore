@@ -1,0 +1,10 @@
+# Entorno virtual
+task1/
+venv/
+env/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
